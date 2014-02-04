@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+.metadata/
+cardstock/bin/
+cardstock-desktop/bin/
+cardstock-android/bin/
